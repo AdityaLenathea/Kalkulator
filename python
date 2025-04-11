@@ -1,0 +1,29 @@
+🪟 Untuk Windows
+Download Python:
+
+Kunjungi situs resmi: https://www.python.org/downloads/
+
+Klik tombol Download Python (versi terbaru).
+
+Install Python:
+
+Jalankan file .exe yang sudah diunduh.
+
+Centang opsi “Add Python to PATH” (penting!).
+
+Klik Install Now.
+
+Cek Instalasi:
+
+Buka Command Prompt (CMD) dan ketik:
+
+css
+Copy
+Edit
+python --version
+atau:
+
+css
+Copy
+Edit
+py --version
